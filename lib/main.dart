@@ -15,6 +15,7 @@ void main() {
           ),
         ),
       ),
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
