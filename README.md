@@ -1,3 +1,3 @@
 # A simple first go at creating apps with Flutter
 
-A new Flutter application replicating the "I am Rich" app that went viral.
+This app is a remake of the "I am rich" app that went viral.
